@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ENDLESS DREAM!! (2021 Remastered Version)",
+  "base_artist": "スペシャルウィーク (CV. 和氣あず未)、サイレンススズカ (CV. 高野麻里佳)、トウカイテイオー (CV. Machico)",
+  "createdAt": "2025-12-30T04:57:12.868360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Endless Dream",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/01_Endless_Dream_Yes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Endless Dream",
+      "artist": "Conjure One feat. Rhys Fulber",
+      "has_synced": true,
+      "path": "select/02_Endless_Dream_Conjure_One_feat._Rhys_Fulber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Endless Dream",
+      "artist": "Conjure One",
+      "has_synced": true,
+      "path": "select/03_Endless_Dream_Conjure_One.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Your Endless Dream",
+      "artist": "Get Well Soon",
+      "has_synced": false,
+      "path": "select/04_Your_Endless_Dream_Get_Well_Soon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Endless Dream",
+      "artist": "OAG",
+      "has_synced": true,
+      "path": "select/05_Endless_Dream_OAG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Endless Dream",
+      "artist": "Conjure One Featuring Poe",
+      "has_synced": true,
+      "path": "select/06_Endless_Dream_Conjure_One_Featuring_Poe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Endless Dream",
+      "artist": "Conjure One feat. Poe",
+      "has_synced": true,
+      "path": "select/07_Endless_Dream_Conjure_One_feat._Poe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "c) Endless Dream",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/08_c)_Endless_Dream_Yes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Endless Dream",
+      "artist": "Conjure One",
+      "has_synced": true,
+      "path": "select/09_Endless_Dream_Conjure_One.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ENDLESS DREAM!! (トウカイテイオー Ver.)",
+      "artist": "トウカイテイオー (CV.Machico)",
+      "has_synced": false,
+      "path": "select/10_ENDLESS_DREAM!!_(トウカイテイオー_Ver.)_トウカイテイオー_(CV.Machico).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ENDLESS DREAM!!",
+      "artist": "スペシャルウィーク (CV.和氣あず未)、サイレンススズカ (CV.高野麻里佳)、トウカイテイオー (CV.Machico)",
+      "has_synced": false,
+      "path": "select/11_ENDLESS_DREAM!!_スペシャルウィーク_(CV.和氣あず未)、サイレンススズカ_(CV.高野麻里佳)、トウカイテイオー_(CV.Machico).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ENDLESS DREAM!! (サイレンススズカ Ver.)",
+      "artist": "サイレンススズカ (CV.高野麻里佳)",
+      "has_synced": false,
+      "path": "select/12_ENDLESS_DREAM!!_(サイレンススズカ_Ver.)_サイレンススズカ_(CV.高野麻里佳).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Endless Dream: Silent spring (inst) / Talk / Endless Dream",
+      "artist": "Yes",
+      "has_synced": false,
+      "path": "select/13_Endless_Dream__Silent_spring_(inst)___Talk___Endless_Dream_Yes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Endless Dream  a)Silent Spring  b)Talk  c)Endless Dream",
+      "artist": "Yes",
+      "has_synced": false,
+      "path": "select/14_Endless_Dream_a)Silent_Spring_b)Talk_c)Endless_Dream_Yes.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Endless Dream, Silent Spring, Talk, Endless Dream",
+      "artist": "Yes",
+      "has_synced": false,
+      "path": "select/15_Endless_Dream,_Silent_Spring,_Talk,_Endless_Dream_Yes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Endless Dream, Good Night",
+      "artist": "AKMU",
+      "has_synced": true,
+      "path": "select/16_Endless_Dream,_Good_Night_AKMU.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Endless Dream: Silent Spring (Instrumental) / Talk / Endless Dream",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/17_Endless_Dream__Silent_Spring_(Instrumental)___Talk___Endless_Dream_Yes.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Endless Dream: a) Silent Spring (instrumental) / b) Talk / c) Endless Dream",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/18_Endless_Dream__a)_Silent_Spring_(instrumental)___b)_Talk___c)_Endless_Dream_Yes.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Endless Dream: a) Silent Spring",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/19_Endless_Dream__a)_Silent_Spring_Yes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ENDLESS DREAM!!",
+      "artist": "スペシャルウィーク(和氣あず未), サイレンススズカ(高野麻里佳), トウカイテイオー(Machico)",
+      "has_synced": false,
+      "path": "select/pl_01_ENDLESS_DREAM!!_スペシャルウィーク(和氣あず未),_サイレンススズカ(高野麻里佳),_トウカイテイオー(Machico).txt"
+    }
+  ]
+}
